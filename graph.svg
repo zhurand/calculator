@@ -1,0 +1,97 @@
+<svg viewBox="-520 -1480 4600 3890" width="512" height="512" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<style>.vertex { font-family: Consolas } .edge { font-family: Consolas } .text { font-family: Consolas }</style>
+    <path d="M 1680 -1300L -181.6326904296875 -175.6475830078125" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(-181.6326904296875 -175.6475830078125) rotate(148.86968643850506)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M -340 -80L -340 645.0173950195312" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(-340 645.0173950195312) rotate(90)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 1680 -1300L 1632.4944299396427 -1268.8890252331769L 1585.146171005362 -1237.57431966373L 1537.955223197158 -1206.0558832916593L 1490.9215865150306 -1174.3337161169648L 1444.0452609589797 -1142.4078181396467L 1397.3262465290054 -1110.2781893597046L 1350.7645432251074 -1077.944829777139L 1304.3601510472863 -1045.4077393919492L 1258.1130699955418 -1012.666918204136L 1212.0233000698738 -979.7223662136989L 1166.0908412702825 -946.5740834206381L 1120.3156935967675 -913.2220698249535L 1074.6978570493293 -879.6663254266452L 1029.2373316279675 -845.906850225713L 983.9341173326824 -811.9436442221572L 938.7882141634739 -777.7767074159774L 893.7996221203418 -743.406039807174L 848.9683412032866 -708.8316413957468L 804.2943714123078 -674.0535121816959L 759.7777127474055 -639.0716521650211L 715.4183652085799 -603.8860613457226L 671.2163287958308 -568.4967397238004L 627.1716035091583 -532.9036872992543L 583.2841893485624 -497.1069040720845L 539.5540863140432 -461.1063900422909L 495.98129440560047 -424.9021452098736L 452.5658136232343 -388.4941695748325L 409.30764396694474 -351.88246313716763L 366.20678543673176 -315.06702589687893L 323.2632380325954 -278.04785785396655L 280.47700175453554 -240.82495900843037L 237.84807660255225 -203.39832936027042" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(237.84807660255225 -203.39832936027042) rotate(138.16584951692067)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 100 -80L 107.96722412109375 645.0173950195312" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(107.96722412109375 645.0173950195312) rotate(89.37040139158974)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 1680 -1300L 656.8692016601562 -214.5916748046875" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(656.8692016601562 -214.5916748046875) rotate(133.30821143173551)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 530 -80L 537.9672241210938 645.0173950195312" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(537.9672241210938 645.0173950195312) rotate(89.37040139158974)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 1680 -1300L 1501.3833618164062 -262.3223876953125" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(1501.3833618164062 -262.3223876953125) rotate(99.76667939577271)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 1470 -80L 1470 225.00885009765625" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(1470 225.00885009765625) rotate(90)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 1470 410L 1248.0889892578125 677.5985717773438" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(1248.0889892578125 677.5985717773438) rotate(129.66784111834048)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 1470 410L 1676.181640625 674.1702270507812" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(1676.181640625 674.1702270507812) rotate(52.0283962389496)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 1680 -1300L 2198.902587890625 -236.24969482421875" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(2198.902587890625 -236.24969482421875) rotate(63.99665415548856)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 2280 -70L 2280 655.0173950195312" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(2280 655.0173950195312) rotate(90)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 1680 -1300L 2628.0380249023438 -219.0594482421875" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(2628.0380249023438 -219.0594482421875) rotate(48.747644974766054)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 2750 -80L 2750 645.0173950195312" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(2750 645.0173950195312) rotate(90)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 1680 -1300L 3114.0447998046875 -183.62335205078125" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(3114.0447998046875 -183.62335205078125) rotate(37.900080355368374)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 1680 -1300L 3738.1475830078125 -159.67498779296875" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(3738.1475830078125 -159.67498779296875) rotate(28.988822521191544)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 3260 -70L 3260 645.0177001953125" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(3260 645.0177001953125) rotate(90)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M -340 830L 1527.9205322265625 2124.598388671875" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(1527.9205322265625 2124.598388671875) rotate(34.724641835121865)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 110 830L 1541.9638061523438 2106.910400390625" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(1541.9638061523438 2106.910400390625) rotate(41.72401818676586)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 540 830L 1563.2098388671875 2086.573486328125" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(1563.2098388671875 2086.573486328125) rotate(50.84456587738686)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 1130 820L 1612.7774047851562 2057.6657104492188" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(1612.7774047851562 2057.6657104492188) rotate(68.6906894028274)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 1790 820L 1694.3911743164062 2045.5313110351562" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(1694.3911743164062 2045.5313110351562) rotate(94.46084825851656)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 2280 840L 1753.333740234375 2060.1101684570312" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(1753.333740234375 2060.1101684570312) rotate(113.3476685280911)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 2750 830L 1792.3617553710938 2082.984619140625" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(1792.3617553710938 2082.984619140625) rotate(127.39016284244808)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 3260 830L 1818.4332275390625 2107.337646484375" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(1818.4332275390625 2107.337646484375) rotate(138.45661917204202)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <path d="M 3900 -70L 3896.484375878932 -7.057257260027519L 3892.0704671635394 55.0184455671622L 3886.758273853822 116.22710848156916L 3880.5477959497803 176.56873148319335L 3873.4390334514146 236.04331457203477L 3865.431986358724 294.6508577480935L 3856.526654671709 352.3913610113693L 3846.7230383903693 409.2648243618625L 3836.021137514705 465.2712477995729L 3824.4209520447166 520.4106313245005L 3811.922481980404 574.6829749366453L 3798.525727321766 628.0882786360074L 3784.2306880688043 680.6265424225868L 3769.0373642215177 732.2977662963833L 3752.945755779907 783.1019502573971L 3735.9558627439715 833.0390943056282L 3718.0676851137114 882.1091984410765L 3699.281222889127 930.312262663742L 3679.596476070218 977.6482869736247L 3659.013444656985 1024.1172713707247L 3637.5321286494272 1069.719215855042L 3615.152528047545 1114.4541204265765L 3591.8746428513377 1158.3219850853282L 3567.6984730608065 1201.322809831297L 3542.624018675951 1243.4565946644832L 3516.651279696771 1284.7233395848866L 3489.780256123266 1325.1230445925073L 3462.0109479554367 1364.6557096873453L 3433.343355193283 1403.3213348694003L 3403.777477836805 1441.1199201386726L 3373.313315886002 1478.0514654951621L 3341.950869340875 1514.1159709388692L 3309.6901382014235 1549.3134364697933L 3276.531122467647 1583.6438620879344L 3242.4738221395464 1617.107247793293L 3207.5182372171216 1649.703593585869L 3171.664367700372 1681.4328994656619L 3134.912213589298 1712.295165432672L 3097.2617748838993 1742.2903914868996L 3058.7130515841764 1771.4185776283443L 3019.2660436901288 1799.6797238570064L 2978.920751201757 1827.0738301728857L 2937.6771741190605 1853.600896575982L 2895.5353124420394 1879.2609230662956L 2852.495166170694 1904.0539096438265L 2808.556735305024 1927.9798563085747L 2763.7200198450296 1951.03876306054L 2717.985019790711 1973.2306298997228L 2671.3517351420674 1994.5554568261227L 2623.8201658990993 2015.0132438397397L 2575.390312061807 2034.603990940574L 2526.06217363019 2053.327698128626L 2475.8357506042494 2071.1843654038944L 2424.711042983983 2088.1739927663807L 2372.688050769393 2104.296580216084L 2319.7667739604785 2119.5521277530042L 2265.947212557239 2133.940635377142L 2211.2293665596753 2147.4621030884973L 2155.6132359677867 2160.1165308870695L 2099.0988207815744 2171.903918772859L 2041.686121001037 2182.8242667458658L 1983.3751366261754 2192.87757480609L 1924.1658676569893 2202.0638429535306L 1864.0583140934787 2210.383071188189" fill="none" stroke="#000000" stroke-width="2"></path>
+    <path transform="translate(1864.0583140934787 2210.383071188189) rotate(173.9163836030254)" d="M-1, -5 L 14 0 L -1, 5 z" fill="#000000"></path>
+    <circle cx="1680" cy="-1300" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="1680" y="-1300" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">first, second, oper</text>
+    <circle cx="-340" cy="-80" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="-340" y="-80" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">if oper == '+'</text>
+    <circle cx="-340" cy="830" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="-340" y="830" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">result = summa(first, second)</text>
+    <circle cx="100" cy="-80" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="100" y="-80" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">elif oper == '-'</text>
+    <circle cx="110" cy="830" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="110" y="830" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">result = sub(first, second)</text>
+    <circle cx="530" cy="-80" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="530" y="-80" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">elif oper == '*'</text>
+    <circle cx="540" cy="830" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="540" y="830" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">result = mult(first, second)</text>
+    <circle cx="1470" cy="-80" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="1470" y="-80" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">elif oper == '/'</text>
+    <circle cx="1470" cy="410" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="1470" y="410" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">if (second == 0)</text>
+    <circle cx="1790" cy="820" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="1790" y="820" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">result = div(first, second)</text>
+    <circle cx="1130" cy="820" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="1130" y="820" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="17px">print('Деление на ноль запрещено!')</text>
+    <circle cx="2280" cy="-70" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="2280" y="-70" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">elif oper == '%'</text>
+    <circle cx="2280" cy="840" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="2280" y="840" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">result = first / second * 100</text>
+    <circle cx="2750" cy="-80" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="2750" y="-80" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">elif oper == '**'</text>
+    <circle cx="2750" cy="830" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="2750" y="830" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">result = first ** second</text>
+    <circle cx="3260" cy="-70" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="3260" y="-70" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">elif oper == 'log'</text>
+    <circle cx="3260" cy="830" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="3260" y="830" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">result = math.log(first, second)</text>
+    <circle cx="3900" cy="-70" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="3900" y="-70" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="14px">print('Некорректная операция!')</text>
+    <circle cx="1680" cy="2230" r="170" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <text class="vertex" x="1680" y="2230" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">return result</text>
+    <rect x="1060" y="838" width="140" height="24" fill="#ffffff" stroke="#ffffff" stroke-width="1.5"/>
+    <text class="text" x="1130" y="850" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="17px">result = None</text>
+    <rect x="3880" y="-112.5" width="40" height="25" fill="#ffffff" stroke="#ffffff" stroke-width="1.5"/>
+    <text class="text" x="3900" y="-100" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="18px">else</text>
+</svg>
